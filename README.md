@@ -1,2 +1,0 @@
-# checkout-INVICTUS
-checkout INVICTUS
